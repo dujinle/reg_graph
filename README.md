@@ -1,6 +1,7 @@
 # reg_graph
 解码regix正则表达式，并生成nfa有向图，输出形式为dot形式。可以用Graphviz生成有向图片
 比如自(从|打)* 的有向图如下列内容
+
 digraph calc {
 	node[fontname=FangSong]
 	0->1[label=自]
