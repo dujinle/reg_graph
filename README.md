@@ -18,4 +18,3 @@ digraph calc {
 	7->6[label=E]
 	7->8[label=E]
 }
-
