@@ -3,11 +3,10 @@
 比如正则:
 	"自(从|打)*"
 的有向图如下列内容,
-
 digraph calc {
 	node[fontname=FangSong]
 	0->1[label=自]
-	1->7[label=E]
+	1->6[label=E]
 	2->3[label=从]
 	3->7[label=E]
 	4->5[label=打]
